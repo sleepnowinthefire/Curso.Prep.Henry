@@ -1,0 +1,8 @@
+//Variables: Es una forma de almacenar información y poder recuperarla de alguna forma cuando lo necesitemos.
+//Strings: Son bloques de texto, hilos de caracteres, y siempre se definen entre comillas.
+//Argumento: Es el parámetro que se le asigna a una función cuando la invoque.
+//Funciones: Son objetos con la particularidad de ser invocados mediante ().
+//Función Return: Es la forma en que los datos escapan de una función. Cuando una funcion encuentra
+el comando return esta devuelve lo especificado.
+//Declaración "if": Es un condicional, si se da determinada condición se ejecuta un comando esepcífico.
+//Valor booleano "true" y "false": Solamente tienen estos dos valores posibles. Son palabras reservadas.
